@@ -16,7 +16,7 @@ I'm currently studying web developing paths in [Platzi.com](https://platzi.com).
 - Studying at Platzi
 
 ## Get In Touch
-' ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [agonzalezf87](https://www.linkedin.com/in/antonio-rafael-gonzalez-ferrer-5a8a66236/)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [agonzalezf87](https://www.linkedin.com/in/antonio-rafael-gonzalez-ferrer-5a8a66236/)
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [agonzalezf87@gmail.com](mailto:agonzalezf87@gmail.com)
 - ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [agonzalezf87](https://twitter.com/agonzalezf87)
 
