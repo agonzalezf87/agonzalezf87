@@ -6,6 +6,7 @@ I'm currently studying web developing paths in [Platzi.com](https://platzi.com).
 
 ## Most Recent Projects
 - [Web Portfolio](https://github.com/agonzalezf87/agonzalezf87.dev)
+- [Weather App](https://github.com/agonzalezf87/weatherapp)
 - [Wordle Clone](https://github.com/agonzalezf87/wordle)
 - [The Dog APPi](https://github.com/agonzalezf87/thedogappi)
 
